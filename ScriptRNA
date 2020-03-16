@@ -1,5 +1,6 @@
 ############# SCRIPT RNA EMPRESAS DE CAPITAL ABERTO #############
 
+
 ############# PACOTES NECESSARIOS #############
 
 install.packages("readxl")
